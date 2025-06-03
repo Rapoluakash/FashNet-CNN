@@ -1,8 +1,6 @@
-#FashNet-CNN
+# FashNet-CNN
 
----
 
-```markdown
 # FashNet-CNN 👕🧠
 A Convolutional Neural Network (CNN) for classifying Fashion MNIST images using TensorFlow 2.x
 
@@ -40,16 +38,13 @@ The model is built using TensorFlow's `Sequential` API and contains:
   - Predictions (optional)
 
 ## 📁 Project Structure
-```
 
-.
 ├── fashion\_mnist.py         # Main script for training and evaluating the CNN
 ├── README.md                # Project documentation
 └── requirements.txt         # Required dependencies (optional)
 
-````
 
-## 🧰 Dependencies
+# 🧰 Dependencies
 - Python 3.x
 - TensorFlow >= 2.x
 - NumPy
@@ -60,23 +55,23 @@ Install with:
 pip install tensorflow numpy matplotlib
 ````
 
-## 📈 Results
+# 📈 Results
 
 The model achieves over **90% accuracy** on the test set with minimal tuning. Dropout layers help reduce overfitting.
 
-## 🧪 Future Improvements
+# 🧪 Future Improvements
 
 * Model checkpointing
 * Hyperparameter tuning (via KerasTuner or Optuna)
 * Experiment with other optimizers (Adam, SGD)
 * Visualization of feature maps and confusion matrix
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Rapolu Akash**
 Certified Full Stack Data Science & GenAI Practitioner
 
-## 📜 License
+# 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
