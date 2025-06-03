@@ -1,4 +1,4 @@
-Here's a professional and impressive `README.md` tailored for the repo name **`FashNet-CNN`**:
+# FashNet-CNN
 
 ---
 
